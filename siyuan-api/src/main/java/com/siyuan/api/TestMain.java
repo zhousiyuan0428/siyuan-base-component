@@ -1,7 +1,7 @@
 package com.siyuan.api;
 
-public class testUtil {
+public class TestMain {
     public static void main(String[] args) {
-        System.out.println("Hello,Maven Jar");
+        System.out.println("Hello Maven jAR");
     }
 }
